@@ -88,3 +88,6 @@ C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\bin\System.
 C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\obj\Debug\APM.WebApi.csprojResolveAssemblyReference.cache
 C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\obj\Debug\APM.WebApi.dll
 C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\obj\Debug\APM.WebApi.pdb
+C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\bin\System.Web.Cors.dll
+C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Dobrin Marinov\Desktop\AcmeProductManagement\APM\APM.WebApi\bin\System.Web.Http.Cors.xml
