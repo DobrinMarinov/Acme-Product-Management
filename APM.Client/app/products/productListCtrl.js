@@ -3,7 +3,7 @@
 
     angular
         .module("productManagement")
-        .controller("ProductListCtrl", 
+        .controller("productListCtrl", 
                     ["productResource", productListCtrl]);
 
     function productListCtrl(productResource) {
